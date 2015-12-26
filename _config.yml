@@ -1,7 +1,7 @@
 name: Heidegger for dummies
 favicon: null
-layout_spectrum: 0.5635691324714571
-typography_spectrum: 0.2889797296375036
+layout_spectrum: 1
+typography_spectrum: 0.51107
 title: Heidegger for dummies
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5232692193239927
   lightness: 0.5081304658669978
   saturation: 0.9801845201291144
-  rhythmicContrast: 0.9494816972874105
+  rhythmicContrast: 0.5
 purpose: []
