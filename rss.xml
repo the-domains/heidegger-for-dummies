@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Heidegger for dummies]]></title>
         <description><![CDATA[Heidegger for dummies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heidegger-for-dummies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 23:04:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 09:51:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heidegger-for-dummies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From Sein und Zeit to Zeit und Sein]]></title>
+            <description><![CDATA[<article><h1>From Sein und Zeit to Zeit und Sein</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/heidegger-for-dummies/from-sein-und-zeit-to-zeit-und-sein/index.html</link>
+            <guid isPermaLink="false">f83fab90-f7e0-4cb6-8b30-28195ba53b1b</guid>
+            <pubDate>Wed, 27 Jan 2016 09:51:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[io gjyhghukyghiy]]></title>
-            <description><![CDATA[<article><h1>io gjyhghukyghiy</h1><p>Uthvihbjkhb. Il il oggi hkh.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae12abdf-ccc8-449e-a0eb-df82833f05f9.jpg"></article>]]></description>
-            <link>undefinedio-gjyhghukyghiy/index.html</link>
+            <description><![CDATA[<article><h1>io gjyhghukyghiy</h1><p>Uthvihbjkhb. Il il oggi hkh.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e4fd8d3f602eb197e0a1b900b5d122b404bc2e9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/heidegger-for-dummies/io-gjyhghukyghiy/index.html</link>
             <guid isPermaLink="false">7866a7d8-1705-4727-9d80-e65aa615df23</guid>
             <pubDate>Sat, 26 Dec 2015 23:04:01 GMT</pubDate>
         </item>
